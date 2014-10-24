@@ -1,0 +1,19 @@
+{
+  "name": "calendar-demo",
+  "version": "0.1.0",
+  "description": "demo application for calendar component",
+  "main": "src/index.js",
+  "directories": {},
+  "dependencies": {
+  },
+  "devDependencies": {
+    "express": "^4.7.2"
+  },
+  "scripts": {
+    "test": "gulp test",
+    "build": "component build",
+    "start": "node server/serve.js"
+  },
+  "author": "Frank Wallis",
+  "license": "JHC"
+}
